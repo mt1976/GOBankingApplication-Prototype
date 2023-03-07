@@ -23,9 +23,8 @@ require (
 	github.com/robfordww/finident v0.1.1
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/viper v1.9.0
-	golang.org/x/crypto v0.0.0-20211209193657-4570a0811e8b // indirect
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
-	golang.org/x/text v0.3.6
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/net v0.1.0
+	golang.org/x/term v0.1.0
+	golang.org/x/text v0.4.0
 )
